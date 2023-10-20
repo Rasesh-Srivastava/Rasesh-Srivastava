@@ -4,6 +4,7 @@ My Holopin badges:
 
 [![An image of @raseshsrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raseshsrivastava)](https://holopin.io/@raseshsrivastava)
 
+- Completed **Hacktoberfest 2023**, a month-long celebration of open source projects, their maintainers, and the entire community of contributors.
 <!--
 **Rasesh-Srivastava/Rasesh-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
