@@ -7,6 +7,10 @@ My Holopin badges:
 - Completed **Hacktoberfest 2023**, a month-long celebration of open source projects, their maintainers, and the entire community of contributors.
 
 ![](https://komarev.com/ghpvc/?username=Rasesh-Srivastava&color=blueviolet)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasesh-Srivastava&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasesh-Srivastava&theme=tokyonight)
 <!--
 **Rasesh-Srivastava/Rasesh-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
