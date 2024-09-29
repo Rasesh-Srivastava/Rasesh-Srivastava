@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Rasesh 👋
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=blueberry-light&animation=default&layout=samuel&font=Architect&quoteType=random&bgColor=black&fontColor=red)  
 My Holopin badges:
 
 [![An image of @raseshsrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raseshsrivastava)](https://holopin.io/@raseshsrivastava)
