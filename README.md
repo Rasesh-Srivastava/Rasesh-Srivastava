@@ -10,7 +10,7 @@ My Holopin badges:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasesh-Srivastava&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasesh-Srivastava&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasesh-Srivastava&theme=tokyonight&langs_count=5)
 <!--
 **Rasesh-Srivastava/Rasesh-Srivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
