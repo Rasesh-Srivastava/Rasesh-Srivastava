@@ -4,7 +4,7 @@ My Holopin badges:
 
 [![An image of @raseshsrivastava's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raseshsrivastava)](https://holopin.io/@raseshsrivastava)
 
-- Completed **Hacktoberfest 2023**, a month-long celebration of open source projects, their maintainers, and the entire community of contributors.
+- Completed **Hacktoberfest 2023 and 2024**, a month-long celebration of open source projects, their maintainers, and the entire community of contributors.
 
 ![](https://komarev.com/ghpvc/?username=Rasesh-Srivastava&color=blueviolet)
 
